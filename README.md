@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Alt text](./illustrator.svg)
+
+
 <!--
 **Ravenaisa/Ravenaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

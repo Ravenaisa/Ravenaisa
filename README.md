@@ -1,19 +1,13 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4983&pause=995&color=552DF7&random=false&width=435&lines=Me+chamo+Isabelle%2C+seja+bem+vindo!" alt="Typing SVG" /></a>
 
-![Alt text](./illustrator.svg)
+          
+          
+  Web designer de Desenvolvedora de Front End
+
+   Entrei nesta área em 2024, tenho como missão expandir meus conhecimentos e mudar a vida de pessoas através do meu trabalho
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 
 
-<!--
-**Ravenaisa/Ravenaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+  

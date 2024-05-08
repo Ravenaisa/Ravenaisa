@@ -6,7 +6,7 @@
 
    Entrei nesta área em 2024, tenho como missão expandir meus conhecimentos e mudar a vida de pessoas através do meu trabalho
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+
 
 
           

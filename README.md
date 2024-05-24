@@ -2,7 +2,7 @@
 
           
           
-  Web designer de Desenvolvedora de Front End
+  Web designer, Social midia e Desenvolvedora de Front End
 
    Entrei nesta área em 2024, tenho como missão expandir meus conhecimentos e mudar a vida de pessoas através do meu trabalho
 
